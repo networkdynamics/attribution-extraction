@@ -1,0 +1,4 @@
+On Date: 2016-08-01 13:04:59 Ariane trained the verbCue classifier with accuracy: 90.4266389178 with a training set of length: 12000
+On Date: 2016-08-01 13:24:21 Ariane trained the verbCue classifier with accuracy: 90.3536257833 with a training set of length: 12000
+On Date: 2016-11-28 02:28:25 Ariane trained the verbCue classifier with accuracy: 89.9599542334 with a training set of length: 12000
+On Date: 2016-11-28 02:38:01 Ariane trained the verbCue classifier with accuracy: 88.2721575649 with a training set of length: 12000

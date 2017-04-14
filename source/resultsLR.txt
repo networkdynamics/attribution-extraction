@@ -1,0 +1,16 @@
+Monday October 10:
+1:24 pm
+
+Best estimator found by grid search:
+0.981653410829
+Predicting entity
+done in 0.009s
+             precision    recall  f1-score   support
+
+          0       0.99      0.99      0.99    126652
+          1       0.74      0.65      0.69      4108
+
+avg / total       0.98      0.98      0.98    130760
+
+[('numQuotesPrev9Parag', 0.00029107440724574917), ('numWordsPrev9Parag', 0.00029107440724574917), ('numMentions', 0.003332997295236945), ('quoteDistanceFromParag', 0.004602974901839024), ('numQuotesOtherSpeakers', 0.011261034711552797), ('numWordsParag', 0.015847936863343147), ('featNextQuoteQ', 0.022244735677395894), ('otherSpeakerMentioned', 0.03245951987300719), ('wordLengthQuote', 0.032833943177344296), ('numQuotesAttributed', 0.1103527015420578), ('featPrevQuoteQ', 0.1470593339216408), ('featPrevPunctQ', 0.14901431277888263), ('featPrevSpeakerE', 0.15766771892271617), ('numQuotesParag', 0.20293372139894417), ('numEntityBetween', 0.24295274878387882), ('featPrevVerbQ', 0.26045980346139086), ('numWordsBetween', 0.26180689747322744), ('featPrevSpeakerQ', 0.27970466173034736), ('featNextVerbQ', 0.4892324284792343), ('featNextPunctQ', 0.5384478174229373), ('thisSpeakerMentioned', 0.5448928756467961), ('featNextQuoteE', 0.5790413027257235), ('featNextPunctE', 0.6130220282392598), ('featNextSpeakerE', 0.6239544036857764), ('featPrevQuoteE', 0.7421287820512981), ('featPrevPunctE', 0.8707688681311192), ('featPrevVerbE', 1.0311772752775377), ('featNextSpeakerQ', 1.2515543556672442), ('featNextVerbE', 1.283936706200885), ('numQuotesBetween', 1.7195427735840083), ('numParagBetween', 4.332678741895333)]
+
